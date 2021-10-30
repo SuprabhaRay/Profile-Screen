@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="blue">#0000FF</color>
+    <color name="medium_blue">#0000CD</color>
+    <color name="new_midnight_blue">#0000A0</color>
+    <color name="earth_blue">#0000A5</color>
+    <color name="cobalt_blue">#0020C2</color>
+    <color name="blueberry_blue">#0041C2</color>
+    <color name="sapphire_blue">#2554C7</color>
+    <color name="balloon_blue">#2B60DE</color>
+    <color name="blue_ribbon">#306EFF</color>
+    <color name="dodger_blue">#1E90FF</color>
+    <color name="silk_blue">#488AC7</color>
+    <color name="blue_koi">#659EC7</color>
+
+    <color name="yellow">#FFFF00</color>
+    <color name="mustard_yellow">#FFDB58</color>
+    <color name="rubber_ducky_yellow">#FFD801</color>
+
+    <color name="tiger_orange">#C88141</color>
+
+    <color name="macaw_blue_green">#43BFC7</color>
+    <color name="sage_green">#848B79</color>
+    <color name="fern_green">#667C26</color>
+    <color name="medium_forest_green">#347235</color>
+    <color name="jungle_green">#347C2C</color>
+    <color name="forest_green">#228B22</color>
+    <color name="green">#008000</color>
+    <color name="dark_forest_green">#254117</color>
+    <color name="lime_green">#32CD32</color>
+    <color name="seaweed_green">#437C17</color>
+    <color name="green_onion">#6AA121</color>
+    <color name="chartreuse">#7FFF00</color>
+    <color name="dull_green_yellow">#B1FB17</color>
+
+    <color name="cotton">#FBFBF9</color>
+    <color name="ivory">#FFFFF0</color>
+
+    <color name="gray">#808080</color>
+    <color name="iron_gray">#52595D</color>
+    <color name="ash_gray">#666362</color>
+    <color name="dim_gray">#696969</color>
+    <color name="platinum_gray">#797979</color>
+    <color name="gray_cloud">#B6B6B4</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="light_gray">#D3D3D3</color>
+
+    <color name="peru">#CD853F</color>
+    <color name="banana_yellow">#F5E216</color>
+
+    <color name="golden_brown">#EAC117</color>
+    <color name="saffron">#FBB917</color>
+    <color name="cantaloupe">#FFA62F</color>
+    <color name="orange">#FFA500</color>
+
+    <color name="tomato">#FF6347</color>
+    <color name="orange_red">#FF4500</color>
+    <color name="red">#FF0000</color>
+    <color name="neon_red">#FD1C03</color>
+    <color name="ferrari_red">#F70D1A</color>
+
+    <color name="bright_maroon">#C32148</color>
+    <color name="rose_red">#C21E56</color>
+    <color name="rogue_pink">#C12869</color>
+    <color name="burnt_pink">#C12267</color>
+    <color name="pink_violet">#CA226B</color>
+    <color name="violet">#EE82EE</color>
+    <color name="medium_orchid">#BA55D3</color>
+    <color name="purple_flower">#A74AC7</color>
+    <color name="rebecca_purple">#663399</color>
+    <color name="dark_magenta">#8B008B</color>
+    <color name="purple">#800080</color>
+    <color name="french_lilac">#86608E</color>
+    <color name="dark_orchid">#9932CC</color>
+
+</resources>
